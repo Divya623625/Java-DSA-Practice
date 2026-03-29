@@ -4,6 +4,7 @@ public class JavaBasics3{
         int B = 10;
         int C = 10;
         int D = 5;
+        
         System.out.println(A==B);
         System.out.println(A!=B);
         System.out.println(C>D);
