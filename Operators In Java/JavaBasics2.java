@@ -1,6 +1,5 @@
 public class JavaBasics2 {
     public static void main(String args[]){
-        
         // Pre increment
         int a=10;
         int b=++a; //Value change and value use
