@@ -1,7 +1,5 @@
 // What will be the output of the following questions
 // 5th Question
-
-
 public class JavaBasics10 {
     public static void main(String[] args){
  
