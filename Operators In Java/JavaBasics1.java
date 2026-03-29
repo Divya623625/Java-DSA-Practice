@@ -5,11 +5,11 @@ public class JavaBasics1{
         Scanner sc=new Scanner(System.in);
         int A = sc.nextInt();
         int B = sc.nextInt();
-        System.out.println("Addition = " + (A+B));
-        System.out.println("Subtraction = " + (A-B));
-        System.out.println("Multiplication = " + (A*B));
-        System.out.println("Division = " + (A/B));
-        System.out.println("Modulus = " + (A%B));
+        System.out.println("Addition = " + (A + B));
+        System.out.println("Subtraction = " + (A - B));
+        System.out.println("Multiplication = " + (A * B));
+        System.out.println("Division = " + (A / B));
+        System.out.println("Modulus = " + (A % B));
         sc.close();
     }
 }
