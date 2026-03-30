@@ -1,5 +1,5 @@
 // Print the reverse of a number
-public class JavaBasics46 {
+public class Loops8{
     public static void main(String args[]){
         int n=10899;
         while(n>0){
