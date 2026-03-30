@@ -1,15 +1,15 @@
 public class Operators4 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         
-        System.out.println(3<2 && 5>0); //False
-        System.out.println(3>2 && 5>0); //True
-        System.out.println(3<2 && 5<0); //False
-        System.out.println(3>2 && 5<0); //False
+        System.out.println(3<2 && 5>3); //False
+        System.out.println(3>2 && 5>3); //True
+        System.out.println(3<2 && 5<3); //False
+        System.out.println(3>2 && 5<3); //False
 
-        System.out.println(3<2 || 5>0); //True
-        System.out.println(3>2 || 5>0); //True
-        System.out.println(3<2 || 5<0); //False
-        System.out.println(3>2 || 5<0); //True
+        System.out.println(3<2 || 5>3); //True
+        System.out.println(3>2 || 5>3); //True
+        System.out.println(3<2 || 5<3); //False
+        System.out.println(3>2 || 5<3); //True
 
         System.out.println(!(3>2)); //False
         System.out.println(!(0>5)); //True
