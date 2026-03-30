@@ -1,4 +1,4 @@
-public class JavaBasics41 {
+public class Loops3{
     public static void main(String args[]){
         int counter=1;
         while(counter<=10){
