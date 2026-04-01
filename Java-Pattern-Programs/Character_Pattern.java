@@ -6,7 +6,7 @@ public class Character_Pattern {
         for(int line=1;line<=n;line++){
             //inner loop
             for(int chars=1;chars<=line;chars++){
-                System.out.println(ch);
+                System.out.print(ch+" ");
                 ch++;
             }
             System.out.println();
