@@ -12,9 +12,9 @@ public class Sum_Of_Digits {
     @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        System.out.println("Input an Integer");
+        System.out.print("Input an Integer : ");
         int digits = sc.nextInt();
-        System.out.println("The Sum is" + sum(digits));
+        System.out.println("The Sum is : " + sum(digits));
         sc.close();
     }   
 }
