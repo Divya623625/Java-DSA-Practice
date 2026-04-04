@@ -1,4 +1,4 @@
-public class Inverted_Half_Rotated_Pyramid {
+public class Inverted_Half_Rotated_Pyramid1 {
     public static void main(String[] args) {
         int n=4;
         for(int i=1;i<=n;i++){
