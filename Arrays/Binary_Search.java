@@ -23,4 +23,15 @@ public class Binary_Search{
         System.out.println("Index for key is : " + binarysearch(numbers, key));
     }
 }
-    
+/*
+👉 Binary Search (sorted array)
+
+Time Complexity:
+Best: O(1)
+Average: O(log n)
+Worst: O(log n)
+
+Space Complexity:
+Iterative: O(1)
+Recursive: O(log n)
+*/
