@@ -7,7 +7,7 @@ public class LinearSearch{
         }
         return -1;
     }
-    
+
     public static int linearsearch(String menu[],String key1){
         for(int j=0; j<=menu.length; j++){
             if(menu[j].equals(key1)){
@@ -36,3 +36,13 @@ public class LinearSearch{
         }
     }
 }
+/* 
+Linear Search
+
+Time Complexity:
+Best: O(1)
+Average: O(n)
+Worst: O(n)
+Space Complexity: O(1)
+
+*/
