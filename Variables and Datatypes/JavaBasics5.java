@@ -7,6 +7,10 @@ public class JavaBasics5 {
         System.out.println(sum);
     }    
 }
+
+// Comments in Java are used to add notes or explanations in the code. 
+// The compiler ignores comments.
+
 /*
 Multi line comment : 
 a = 10 → value 10 is stored in memory, and a points to that location
