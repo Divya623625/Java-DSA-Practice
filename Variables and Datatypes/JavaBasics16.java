@@ -12,5 +12,4 @@ public class JavaBasics16 {
         System.out.println("Area of square is: "+area);
         sc.close();
     }
-    
 }
